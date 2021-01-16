@@ -20,7 +20,9 @@ console.warn('fuck you')
 ```html
 <!--HTML 部分-->
 <button onclick="fuckyou()">执行</button>
-```# 各语言Markdown
+```
+
+# 各语言Markdown
 
 1.Assembly
 
@@ -329,6 +331,7 @@ public class Hello {
     }
 }
 ```
+
 # Markdown字典
 ## 目录
 [各级标题](#一级标题)<br />
